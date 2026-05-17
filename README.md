@@ -1,4 +1,25 @@
-# Travel Memory
+# Travel Memory Deployment
+
+### Live URL
+
+https://travelmemory.signalflyglobal.com
+
+### GitHub Repository
+
+https://github.com/Mani-here/travel-memory-deployment
+
+### Features
+
+- React frontend
+- NodeJS backend
+- MongoDB Atlas
+- Nginx reverse proxy
+- AWS EC2
+- Application Load Balancer
+- Route53 custom domain
+- SSL via ACM
+- High availability deployment
+
 
 `.env` file to work with the backend after creating a database in mongodb: 
 
